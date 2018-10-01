@@ -7,8 +7,8 @@ def fourth_challenge
       :hero_friends => [
         {
           :name => "Benvolio",
-          :age => "",
-          :attitude => "",
+          :age => "17",
+          :attitude => "worried",
         },
         {
           :name => "",
