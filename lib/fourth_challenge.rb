@@ -29,8 +29,8 @@ def fourth_challenge
         },
         {
         :name => "",
-          :age => "",
-          :attitude => "",
+        :age => "",
+        :attitude => "",
         }
       ]
    }
